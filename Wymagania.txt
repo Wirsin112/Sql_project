@@ -1,0 +1,7 @@
+Projekt został przygotownay na ocenę 3.
+W Projekcie znajdją się:
+Dokument motywujący.
+Diagram relacji.
+Dokumentacja danych.
+Projekt bazy- 11 tabel każda po przynajmniej 10 rekordów każdy z atrybutów posiada przynajmniej jeden z więzów integralności
+Zapytania - 10 selekcji - 10 projekcji - 10 selekcji na 2 tabelach - 10 selekcji na 3 tabelach
